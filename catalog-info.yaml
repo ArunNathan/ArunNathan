@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: ArunNathan
+  annotations:
+    github.com/project-slug: ArunNathan/ArunNathan
+spec:
+  type: other
+  lifecycle: unknown
+  owner: arun.nathan@anywhere.co
